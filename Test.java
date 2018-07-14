@@ -3,3 +3,6 @@ class A{
     System.out.println("Test the git");
   }
 }
+class B{
+} 
+
